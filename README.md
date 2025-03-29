@@ -12,5 +12,5 @@ This issue resonantes with me personally, as I have a deep connection to Mangalu
 4. Use the left handstick to rotate the 3D globe. 
 5. Use the right handstick to transport to Tokyo, Japan and start the sea level rise flooding simulation.
 
-Here's a quick demonstration using the Immersive Web Emulator Chrome Extension:
-[https://youtu.be/HcvWA3zNAvU](https://youtu.be/HcvWA3zNAvU?si=5LUImnt0DCAL8s-O)
+Here's a quick demonstration using the Immersive Web Emulator Chrome Extension: https://youtu.be/HcvWA3zNAvU
+[![Watch the video](https://img.youtube.com/vi/HcvWA3zNAvU/0.jpg)](https://youtu.be/HcvWA3zNAvU)
