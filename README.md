@@ -6,7 +6,7 @@ One of the biggest yet underestimated threats we face today is rising sea levels
 This issue resonantes with me personally, as I have a deep connection to Mangaluru, Karnataka a coastal city in India that I love visiting for pilgrimage trips. The thought of places like these being swallowed by the ocean is both heartbreaking and terrifying.
 
 # How to use it?
-1. Download the Immersive Web Emulator Chrome Extension (allows you to simulate a WebXR device in a desktop browser) OR
+1. Download the Immersive Web Emulator Chrome Extension (allows you to simulate a WebXR device in a desktop browser). Click here to see a quick tutorial: https://p5xr.org/#/quick-start/emulator OR
 2. Connect with your VR Headset (works better with Oculus)
 3. See the legend to understand the data being presented on the 3D globe
 4. Use the left handstick to rotate the 3D globe. 
